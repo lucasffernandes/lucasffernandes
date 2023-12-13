@@ -4,6 +4,11 @@
 - 😄 Pronouns: Ele/Dele ...
 - ❤️ tecnologia
 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasffernandes&layout=compact&langs_count=8&theme=transparent&card_width=0" />
+</a>
+
 
 ##
 <div style="display: inline_block"><br>
